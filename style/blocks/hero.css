@@ -1,0 +1,54 @@
+/* hero */
+
+.hero {
+	background-color: #ece7e4;
+	padding: 77px 0;
+	background-image: url("/img/hero_card.png");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.hero__container {
+	margin: 0 auto;
+	max-width: 1320px;
+}
+
+.hero__block {
+	max-width: 600px;
+	padding: 60px 51px 40px 40px;
+}
+
+.hero__title {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #645c55;
+	margin-bottom: 20px;
+}
+
+.hero__text {
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 70.4px;
+	color: #1b1a1a;
+	margin-bottom: 18px;
+}
+
+.hero__descr {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #403e3b;
+	margin-bottom: 30px;
+}
+
+.hero__btn {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.4px;
+	color: #1b1a1a;
+	padding: 11px 20px;
+}

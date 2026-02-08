@@ -1,0 +1,48 @@
+/* header */
+
+.header {
+	padding: 22px 0;
+}
+
+.header__container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.header__block {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-left: 32px;
+	padding-right: 20px;
+}
+
+.header__block__nav {
+	display: flex;
+	align-items: center;
+}
+
+.header__list {
+	display: flex;
+	margin-right: 31px;
+}
+
+.header__item {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+}
+
+.header__item:not(:last-child) {
+	margin-right: 32px;
+}
+
+.header__btn {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	background-color: #1b1a1a;
+	border-radius: 14px;
+	color: #ffffff;
+	padding: 11px 20px;
+}

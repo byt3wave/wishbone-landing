@@ -1,0 +1,63 @@
+/* firm */
+
+.firm {
+	padding: 100px 0;
+}
+
+.firm__container {
+	max-width: 768px;
+	margin: 0 auto;
+}
+
+.firm__block {
+	display: flex;
+}
+
+.firm__title {
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 38px;
+	color: #403e3b;
+	margin-right: 131px;
+}
+
+.firm__block__text {
+	max-width: 501px;
+	padding: 6px 0 20px;
+}
+
+.firm__text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #403e3b;
+	margin-bottom: 10px;
+}
+
+.firm__block__info {
+	display: flex;
+	align-items: center;
+	padding: 8px 250px 8px 0;
+}
+
+.firm__block__img {
+	margin-right: 30px;
+}
+
+.firm__blovk__info__text {
+	display: flex;
+	flex-direction: column;
+}
+
+.firm__block__title {
+	font-weight: 400;
+	font-size: 17px;
+	color: #1b1a1a;
+}
+
+.firm__block__descr {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 14px;
+	color: #645c55;
+}
